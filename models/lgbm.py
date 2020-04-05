@@ -1,4 +1,3 @@
-#https://www.kaggle.com/ogrellier/lgbm-with-words-and-chars-n-gram
 import numpy as np
 import pandas as pd
 from contextlib import contextmanager
